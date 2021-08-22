@@ -1,0 +1,195 @@
+/*
+.skill{
+  margin-left: 230px;
+  margin-top: 50px;
+  margin-right:200px;
+}
+
+.intro{
+  margin-left: 200px;
+  margin-top: 50px;
+}
+  
+ .header{
+    color: #444649;
+    
+    height:24px;
+    font-size: 30pt;
+    font-weight: bolder;
+    
+    
+}
+.imgme{
+    height:250px;
+    width: 288px;
+
+}
+
+.skillwrap{
+  display:flex;
+    flex-direction: row;
+
+ 
+
+}
+
+
+
+
+
+.infome{
+    margin-top:20px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: gray;
+    margin-left:120px;
+}
+.intro-about{
+    margin-top: 10px;
+    font-size: large;
+    color: grey;
+    
+}
+
+
+.card-skill{
+    
+    
+    width:30px;
+    background: white;
+    display: flex;
+    align-items: flex-end;
+    transition: 0.4s ease-out;
+    box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
+    
+}
+
+.skillquality{
+    display:flex;
+    flex-direction: row;
+
+     
+}
+
+.card-skill2{
+    width:30px;
+    background: white;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    transition: 0.4s ease-out;
+    box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5); 
+}
+.speed{
+    margin-left: 200px;
+    margin-top: 50px;
+
+}
+.responsive{
+    margin-left: 230px;
+    margin-top: 50px;
+    margin-right:200px;
+}
+.cardintro img {
+  width: 280px;
+  height: 360px;
+  border-radius: 15px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: relative;
+  border-radius: 15px;
+}
+      
+*/
+/*
+
+
+.cardintro {
+    width: 280px;
+    height: 360px;
+    border-radius: 15px;
+    padding: 1.5rem;
+    background: white;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    transition: 0.4s ease-out;
+    box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
+    margin-left:200px;
+  }
+  .cardintro:hover {
+    transform: translateY(20px);
+  }
+  .cardintro:hover:before {
+    opacity: 1;
+  }
+  .cardintro:hover .info {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  .cardintro:before {
+    content: "";
+    positio
+ */
+     
+
+
+
+  .cardintro img {
+    width: 290px;
+    height: 360px;
+    border-radius: 15px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    align-items: left;
+    border-radius: 15px;
+  }
+  .skill{
+    justify-content: center;
+      display: grid;
+  }
+  .header{
+    color: #444649;
+    
+    height:24px;
+    font-size: 30pt;
+    font-weight: bolder;
+  }
+  .skillwrap{
+    margin-top: 80px;
+    
+    
+   
+   }
+
+   .speed{
+
+    margin-top: 50px;
+}
+.responsive{
+
+    margin-top: 50px;
+    
+}
+
+.intro-about{
+    margin-top: 10px;
+    font-size: large;
+    color: grey;
+}
+
+.infome{
+    margin-top:20px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: gray;
+}
+
+
+
+
+
+   
+
+
+

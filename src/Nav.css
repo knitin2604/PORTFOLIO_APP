@@ -1,0 +1,94 @@
+.home{
+    height: 800px;
+    background-color: black;
+    align-items: center;
+    position: relative;
+    background-image: url(./images/canvas.png);
+
+}
+.text{
+    color: white;
+    font-size:50px;
+    font-style:normal;
+    font-weight: bolder;
+
+}
+.highlight{
+    color:cyan;
+    font-style: normal;
+}
+.flex-home{
+    padding-top: 300px;
+    height:200px;
+}
+.image{
+    height:800px;
+    
+}
+.button {
+    border-radius: 2px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 300px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    
+  }
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+  .home-image{
+    opacity:0.1;
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
